@@ -1,0 +1,16 @@
+{
+  "resources/css/app.css": {
+<<<<<<< HEAD
+    "file": "assets/app-yqX3h5i_.css",
+=======
+    "file": "assets/app-D-zxcIOx.css",
+>>>>>>> 0a3b9191061f09fcedf93aff4e11b835bc462c5e
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-esQZTrj2.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
